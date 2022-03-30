@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  guardian-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-30T11:40:43.390590082Z"
+    description: A Helm chart for guardian
+    digest: 6deb375e7c4efc11f5e43f9d8c8ed4f334f369f6f694557309bbfe7099b895c1
+    name: guardian-test
+    type: application
+    urls:
+    - $HELM_REPOSITORY_URL/charts/guardian-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-30T11:40:43.388956604Z"
