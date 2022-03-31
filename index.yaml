@@ -3,12 +3,12 @@ entries:
   guardian-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-31T09:18:57.339383426Z"
+    created: "2022-03-31T10:41:40.998963014Z"
     description: A Helm chart for guardian
-    digest: 87011bdb74cf76b8a444293123d6d77ba620b176f05899bb0ae1657b782e20a9
+    digest: e9b6178c3c4b36c0e01153dd30b2478927a57a749399375fd085198055aa74be
     name: guardian-test
     type: application
     urls:
     - https://true-north-engineering.github.io/helm-charts/guardian-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-31T09:18:57.338437014Z"
+generated: "2022-03-31T10:41:40.998198923Z"
