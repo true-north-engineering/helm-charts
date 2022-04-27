@@ -11,6 +11,17 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/exploratory-service-0.1.0.tgz
     version: 0.1.0
+  frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-27T09:27:43.947606326Z"
+    description: Guardian Front End Chart
+    digest: f633e810dc9d3320c29abb1aaf42740fc8948696947f04b70501b2eaabac3569
+    name: frontend
+    type: application
+    urls:
+    - https://true-north-engineering.github.io/helm-charts/frontend-0.1.0.tgz
+    version: 0.1.0
   guardian-test:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -22,4 +33,4 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/guardian-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-26T15:56:18.458869518Z"
+generated: "2022-04-27T09:27:43.947132919Z"
