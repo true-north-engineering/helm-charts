@@ -33,4 +33,15 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/guardian-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-28T14:08:40.202286812Z"
+  risk-indicator-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-29T08:02:11.640176199Z"
+    description: Risk Indicator Service Helm Chart
+    digest: 91c7bac086b60035e11998ad3cd38f4b49518dd1ed211ff45545b82cfeb426a3
+    name: risk-indicator-service
+    type: application
+    urls:
+    - https://true-north-engineering.github.io/helm-charts/risk-indicator-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-29T08:02:11.638769875Z"
