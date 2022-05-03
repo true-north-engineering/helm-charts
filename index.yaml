@@ -36,12 +36,12 @@ entries:
   risk-indicator-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-03T09:21:56.836971083Z"
+    created: "2022-05-03T09:37:37.834197921Z"
     description: Risk Indicator Service Helm Chart
-    digest: a4ca2ba25bfaff18027f442c0e5539c3379460c88c503766712542bc91625d5f
+    digest: 14f2dce9b8fc890edd968f50d57a88e6dd0fa5e074af5ec9a7b855609999a79f
     name: risk-indicator-service
     type: application
     urls:
     - https://true-north-engineering.github.io/helm-charts/risk-indicator-service-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-03T09:21:56.836104013Z"
+generated: "2022-05-03T09:37:37.833195532Z"
