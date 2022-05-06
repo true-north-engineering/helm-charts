@@ -14,9 +14,9 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-06T08:55:57.932901624Z"
+    created: "2022-05-06T09:28:59.218984283Z"
     description: Guardian Front End Chart
-    digest: 48c5351b129bae44e09a2ad2a9be3e164e7bb1557b96db2db3118261a79c5180
+    digest: 5a15928d821268813ffa67a0f870e6b90ed383e71d81bc3d39cf555cdc98e252
     name: frontend
     type: application
     urls:
@@ -44,4 +44,4 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/risk-indicator-service-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-06T08:55:57.931673229Z"
+generated: "2022-05-06T09:28:59.217543084Z"
