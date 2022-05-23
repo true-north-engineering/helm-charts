@@ -3,6 +3,16 @@ entries:
   exploratory-service:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-23T07:23:33.939137617Z"
+    description: Guardian Exploratory service chart
+    digest: be519b51704b564fc48fa043dc8b9977993646662fba7601a35c51305efbf93b
+    name: exploratory-service
+    type: application
+    urls:
+    - https://true-north-engineering.github.io/helm-charts/exploratory-service-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-05-18T08:11:10.906927147Z"
     description: Guardian Exploratory service chart
     digest: 1d0d903c7c20554e7be20d402724150dae0a8077f4928923390a30e510817870
@@ -85,4 +95,4 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/service-360-view-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-19T12:42:02.464176112Z"
+generated: "2022-05-23T07:23:33.93716659Z"
