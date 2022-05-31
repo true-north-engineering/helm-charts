@@ -87,9 +87,9 @@ entries:
   service-360-view:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-31T12:41:22.071408418Z"
+    created: "2022-05-31T13:01:49.944557438Z"
     description: 360 view service Service Helm Chart
-    digest: f9d66aadb88755319448e26e072ba7f267512ef59e59d2e28aa45b1bd23d15d8
+    digest: dcdde1847d0385ca9f76597d6968c6d897a32501b56ef1ce16f9c8bc81a167bf
     name: service-360-view
     type: application
     urls:
@@ -115,4 +115,4 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/service-360-view-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-31T13:01:14.709410155Z"
+generated: "2022-05-31T13:01:49.943214568Z"
