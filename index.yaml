@@ -24,9 +24,9 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-31T12:41:33.958843837Z"
+    created: "2022-05-31T13:02:17.966221315Z"
     description: Guardian Front End Chart
-    digest: 204cea1e20f6873f44a52b1dcc8b823c9a51c29b968ef9cb8710ce50d7c31d21
+    digest: de7ce748ea71b4e2ef2e3575395d4a1f2d3ac18884fad4edc84e05fabc0c03b1
     name: frontend
     type: application
     urls:
@@ -115,4 +115,4 @@ entries:
     urls:
     - https://true-north-engineering.github.io/helm-charts/service-360-view-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-31T13:02:14.837363641Z"
+generated: "2022-05-31T13:02:17.963345312Z"
